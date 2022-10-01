@@ -1,0 +1,5 @@
+classes= 1
+train  = C:/Users/gamem/Downloads/darknet-master/darknet-master/data/train.txt
+names = C:/Users/gamem/Downloads/darknet-master/darknet-master/data/custom.names
+backup = C:/Users/gamem/Downloads/darknet-master/darknet-master/data/weights
+
